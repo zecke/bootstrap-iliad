@@ -1,0 +1,19 @@
+<package>
+    <name>IliadBootstrap</name>
+    <prereq>Iliad-Core</prereq>
+
+    <filein>Core/BootstrapApplication.st</filein>
+    <filein>postLoad.st</filein>
+
+    <file>Public/js/bootstrap.min.js</file>
+    <file>Public/js/bootstrap.js</file>
+    <file>Public/fonts/glyphicons-halflings-regular.svg</file>
+    <file>Public/fonts/glyphicons-halflings-regular.eot</file>
+    <file>Public/fonts/glyphicons-halflings-regular.ttf</file>
+    <file>Public/fonts/glyphicons-halflings-regular.woff</file>
+    <file>Public/css/bootstrap-theme.min.css</file>
+    <file>Public/css/bootstrap.css</file>
+    <file>Public/css/bootstrap.min.css</file>
+    <file>Public/css/bootstrap-theme.css</file>
+</package>
+
